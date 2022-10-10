@@ -98,6 +98,9 @@ z-index: 10;
   color: white;
   text-decoration: none;
 }
+.navbar-brand{
+  color: black !important;
+}
 .header .titulo {
   font-size: 60px;
   margin-bottom: 15px;
@@ -468,3 +471,7 @@ background:#fff;
   background: #fff;
   margin-bottom: 60px;
 }
+
+
+/*Resonsive*/
+
